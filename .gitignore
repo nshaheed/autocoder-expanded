@@ -31,3 +31,4 @@ script/verinfo.rc
 /source/basics/autocoder/autocoder.xcodeproj/
 /source/basics/autocoder/cmake_install.cmake
 /source/basics/autocoder/max-sdk.build/
+*.maxsnap
